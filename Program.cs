@@ -6,7 +6,7 @@ namespace DIS_Collaboration_2021
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Finally collaborating!");
         }
     }
 }
